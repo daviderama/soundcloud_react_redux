@@ -8,7 +8,6 @@
 
 - Webpack
 - webpack-dev-server
-- react-hot-loader
 - Babel
 - React
 - react-hot-loader

@@ -1,11 +1,19 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Stream from './components/Stream';
 
-const title = 'SoundClound Client';
+const tracks = [
+  {
+    title: 'track 1'
+  },
+  {
+    title: 'track 2'
+  }
+];
 
 ReactDOM.render(
-    <div>{title}</div>,
-    document.getElementById('app')
+  <Stream tracks={tracks} />,
+  document.getElementById('app')
 );
 
 module.hot.accept();
