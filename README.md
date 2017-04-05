@@ -12,3 +12,8 @@
 - React
 - react-hot-loader
 
+### Test
+- mocha
+- chai
+- jsdom
+- Enyzme
