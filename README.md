@@ -11,6 +11,9 @@
 - Babel
 - React
 - react-hot-loader
+- Redux
+- redux-logger
+- react-redux
 
 ### Test
 - mocha
