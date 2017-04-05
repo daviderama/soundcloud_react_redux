@@ -11,9 +11,14 @@
 - Babel
 - React
 - react-hot-loader
+- react-router
 - Redux
 - redux-logger
 - react-redux
+- react-router-redux
+- redux-thunk
+- soundcloud
+
 
 ### Test
 - mocha
